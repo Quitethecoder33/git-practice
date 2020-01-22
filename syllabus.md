@@ -6,7 +6,7 @@ Professor: Vishal Verma
 
 Day: Everyday
 
-Time: All the time
+Time: All the time, every second and everyday
 
 Office: The Office
 
