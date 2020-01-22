@@ -1,0 +1,3 @@
+echo is for echoing
+cat is for reading stuff
+Commands learned are mkdir, cd, cat, ls, echo and pwd
